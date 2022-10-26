@@ -1,0 +1,104 @@
+[
+  {
+    "id": "01",
+    "title": "JavaScript Refresher",
+    "description": "Descriptions here",
+    "img": "image here",
+    "details": [
+      {
+        "det_info": "Details info here"
+      },
+      {
+        "det_info": "Details info here"
+      },
+      {
+        "det_info": "Details info here"
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "title": "React Basics and Work With Components",
+    "description": "Descriptions here",
+    "img": "image here",
+    "details": [
+      {
+        "det_info": "Details info here"
+      },
+      {
+        "det_info": "Details info here"
+      },
+      {
+        "det_info": "Details info here"
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "title": "React Hooks and Folder Structure",
+    "description": "Descriptions here",
+    "img": "image here",
+    "details": [
+      {
+        "det_info": "Details info here"
+      },
+      {
+        "det_info": "Details info here"
+      },
+      {
+        "det_info": "Details info here"
+      }
+    ]
+  },
+  {
+    "id": "04",
+    "title": "React Routing",
+    "description": "Descriptions here",
+    "img": "image here",
+    "details": [
+      {
+        "det_info": "Details info here"
+      },
+      {
+        "det_info": "Details info here"
+      },
+      {
+        "det_info": "Details info here"
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "title": "React Authentications",
+    "description": "Descriptions here",
+    "img": "image here",
+    "details": [
+      {
+        "det_info": "Details info here"
+      },
+      {
+        "det_info": "Details info here"
+      },
+      {
+        "det_info": "Details info here"
+      }
+    ]
+  },
+  {
+    "id": "06",
+    "title": "Beautiful React Projects and Deploy",
+    "description": "Descriptions here",
+    "img": "image here",
+    "details": [
+      {
+        "det_info": "Details info here"
+      },
+      {
+        "det_info": "Details info here"
+      },
+      {
+        "det_info": "Details info here"
+      }
+    ]
+  }
+]
