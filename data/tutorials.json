@@ -2,18 +2,14 @@
   {
     "id": "01",
     "title": "React Basics and Work With Components",
-    "description": "Descriptions here",
+    "description": "Let's introduce with THE most popular JavaScript library you can use and learn these days to build modern, reactive user interfaces for the web.",
     "img": "https://i.ibb.co/L5XVrBC/react-basics.png",
     "details": [
-      {
-        "det_info": "Details info here"
-      },
-      {
-        "det_info": "Details info here"
-      },
-      {
-        "det_info": "Details info here"
-      }
+      "How react work",
+      "Introducing JSX",
+      "Building fist component",
+      "State vs props",
+      "An alternative to function Syntax"
     ]
   },
   {
@@ -32,19 +28,15 @@
   },
   {
     "id": "03",
-    "title": "React Hooks and Folder Structure",
-    "description": "Descriptions here",
+    "title": "React State and Working with Events",
+    "description": "This module is all about hooks and events. These are the most important part of react.",
     "img": "https://i.ibb.co/KX3p1qs/react-hooks.png",
     "details": [
-      {
-        "det_info": "Details info here"
-      },
-      {
-        "det_info": "Details info here"
-      },
-      {
-        "det_info": "Details info here"
-      }
+      "Listening to events and working with event handlers",
+      "A closer look at the useState hook",
+      "A closer look at useEffect",
+      "Child and parent component communication(Bottom to up)",
+      "Handle form submission"
     ]
   },
   {
