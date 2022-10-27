@@ -1,9 +1,9 @@
 [
   {
     "id": "01",
-    "title": "JavaScript Refresher",
+    "title": "React Basics and Work With Components",
     "description": "Descriptions here",
-    "img": "image here",
+    "img": "https://i.ibb.co/L5XVrBC/react-basics.png",
     "details": [
       {
         "det_info": "Details info here"
@@ -18,26 +18,23 @@
   },
   {
     "id": "02",
-    "title": "React Basics and Work With Components",
-    "description": "Descriptions here",
-    "img": "image here",
+    "title": "JavaScript Refresher",
+    "description": "In this module, I provided a brief introduction into some core next-gen JavaScript features, of course focusing on the ones you'll see the most in this course",
+    "img": "https://i.ibb.co/XSyRqjs/javascript-refresher.webp",
     "details": [
-      {
-        "det_info": "Details info here"
-      },
-      {
-        "det_info": "Details info here"
-      },
-      {
-        "det_info": "Details info here"
-      }
+      "Understanding let and const",
+      "Arrow functions",
+      "Exports and Imports",
+      "Spread and Rest Operator",
+      "Destructuring",
+      "Js Array Function"
     ]
   },
   {
     "id": "03",
     "title": "React Hooks and Folder Structure",
     "description": "Descriptions here",
-    "img": "image here",
+    "img": "https://i.ibb.co/KX3p1qs/react-hooks.png",
     "details": [
       {
         "det_info": "Details info here"
@@ -54,7 +51,7 @@
     "id": "04",
     "title": "React Routing",
     "description": "Descriptions here",
-    "img": "image here",
+    "img": "https://i.ibb.co/xCSFVYq/react-router.png",
     "details": [
       {
         "det_info": "Details info here"
@@ -69,8 +66,8 @@
   },
   {
     "id": "05",
-    "title": "React Authentications",
-    "description": "Descriptions here",
+    "title": "Context API and Hooks",
+    "description": "https://i.ibb.co/s5tS6DV/context-api.png",
     "img": "image here",
     "details": [
       {
@@ -88,7 +85,7 @@
     "id": "06",
     "title": "Beautiful React Projects and Deploy",
     "description": "Descriptions here",
-    "img": "image here",
+    "img": "https://i.ibb.co/3mg2kHB/react-project.jpg",
     "details": [
       {
         "det_info": "Details info here"
