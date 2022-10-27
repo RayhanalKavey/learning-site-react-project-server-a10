@@ -42,52 +42,40 @@
   {
     "id": "04",
     "title": "React Routing",
-    "description": "Descriptions here",
+    "description": "React Router is a standard library for routing in React.It enables the navigation among views of various components in a React Application, allows changing the browser URL, and keeps the UI in sync with the URL. Let's understand it. ",
     "img": "https://i.ibb.co/xCSFVYq/react-router.png",
     "details": [
-      {
-        "det_info": "Details info here"
-      },
-      {
-        "det_info": "Details info here"
-      },
-      {
-        "det_info": "Details info here"
-      }
+      "Install react router and understand the document",
+      "Create a project using react router documents",
+      "Analyzing different examples with react router"
     ]
   },
+
   {
     "id": "05",
-    "title": "Context API and Hooks",
-    "description": "https://i.ibb.co/s5tS6DV/context-api.png",
-    "img": "image here",
+    "title": "Beautiful React Projects and Deploy",
+    "description": "A beautiful project we will build together using react's all exclusive features and understand them all.",
+    "img": "https://i.ibb.co/3mg2kHB/react-project.jpg",
     "details": [
-      {
-        "det_info": "Details info here"
-      },
-      {
-        "det_info": "Details info here"
-      },
-      {
-        "det_info": "Details info here"
-      }
+      "Project idea",
+      "Adding components",
+      "Adding form",
+      "Fixing input",
+      "Managing States and carts",
+      "Understanding logics",
+      "UseState and UseEffect hook understanding."
     ]
   },
   {
     "id": "06",
-    "title": "Beautiful React Projects and Deploy",
-    "description": "Descriptions here",
-    "img": "https://i.ibb.co/3mg2kHB/react-project.jpg",
+    "title": "Debugging React Apps",
+    "description": "We will debug our projects together. Understand the debugging process and the react devtools.",
+    "img": "https://i.ibb.co/Yhj46tj/debugging.png",
     "details": [
-      {
-        "det_info": "Details info here"
-      },
-      {
-        "det_info": "Details info here"
-      },
-      {
-        "det_info": "Details info here"
-      }
+      "Understanding React Error Messages",
+      "Understanding code's data flow",
+      "Working with break points",
+      "Using react devtools"
     ]
   }
 ]
