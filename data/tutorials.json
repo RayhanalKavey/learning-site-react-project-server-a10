@@ -3,7 +3,7 @@
     "id": "01",
     "title": "React Basics and Work With Components",
     "description": "Let's introduce with THE most popular JavaScript library you can use and learn these days to build modern, reactive user interfaces for the web.",
-    "img": "https://i.ibb.co/L5XVrBC/react-basics.png",
+    "img": "https://i.ibb.co/TgB6Lbt/1000-F-104358554-GIGVZs-F1g08-Zm-Ms-I42-Eilet-Af8m715-X8.jpg",
     "details": [
       "How react work",
       "Introducing JSX",
@@ -16,7 +16,7 @@
     "id": "02",
     "title": "JavaScript Refresher",
     "description": "In this module, I provided a brief introduction into some core next-gen JavaScript features, of course focusing on the ones you'll see the most in this course",
-    "img": "https://i.ibb.co/XSyRqjs/javascript-refresher.webp",
+    "img": "https://i.ibb.co/3rh1S8T/js-refresher.jpg",
     "details": [
       "Understanding let and const",
       "Arrow functions",
@@ -30,7 +30,7 @@
     "id": "03",
     "title": "React State and Working with Events",
     "description": "This module is all about hooks and events. These are the most important part of react.",
-    "img": "https://i.ibb.co/KX3p1qs/react-hooks.png",
+    "img": "https://i.ibb.co/LSF0Nsh/react-state.jpg",
     "details": [
       "Listening to events and working with event handlers",
       "A closer look at the useState hook",
@@ -43,7 +43,7 @@
     "id": "04",
     "title": "React Routing",
     "description": "React Router is a standard library for routing in React.It enables the navigation among views of various components in a React Application, allows changing the browser URL, and keeps the UI in sync with the URL. Let's understand it. ",
-    "img": "https://i.ibb.co/xCSFVYq/react-router.png",
+    "img": "https://i.ibb.co/SmC4qND/react.jpg",
     "details": [
       "Install react router and understand the document",
       "Create a project using react router documents",
@@ -55,7 +55,7 @@
     "id": "05",
     "title": "Beautiful React Projects and Deploy",
     "description": "A beautiful project we will build together using react's all exclusive features and understand them all.",
-    "img": "https://i.ibb.co/3mg2kHB/react-project.jpg",
+    "img": "https://i.ibb.co/gjgxtwQ/react-project.png",
     "details": [
       "Project idea",
       "Adding components",
@@ -70,7 +70,7 @@
     "id": "06",
     "title": "Debugging React Apps",
     "description": "We will debug our projects together. Understand the debugging process and the react devtools.",
-    "img": "https://i.ibb.co/Yhj46tj/debugging.png",
+    "img": "https://i.ibb.co/jT34zmS/react-debug.jpg",
     "details": [
       "Understanding React Error Messages",
       "Understanding code's data flow",

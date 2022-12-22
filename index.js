@@ -7,7 +7,7 @@ app.use(cors());
 const tutorials = require("./data/tutorials.json");
 
 app.get("/", (req, res) => {
-  res.send("Data is coming.");
+  res.send("Welcome to The 'Complete React Guideline'..");
 });
 app.get("/tutorials", (req, res) => {
   res.send(tutorials);
@@ -20,5 +20,7 @@ app.get("/tutorials/:id", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Server is running on port: ${port}`);
+  console.log(
+    `The Complete React Guideline server is running on port: ${port}`
+  );
 });
